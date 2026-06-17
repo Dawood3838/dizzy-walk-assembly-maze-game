@@ -8,9 +8,9 @@ The project simulates a professor navigating through a large maze while collecti
 
 ## Contributors
 
+- UmeHani Awais
+- Maidah Binte Junaid
 - Muhammad Dawood
-- [Teammate 1]
-- [Teammate 2]
 
 ---
 
@@ -72,13 +72,6 @@ This project provided practical experience with:
 
 ![Random Mode](screenshots/random-mode-screen.png)
 
-### Coin Collection Event
-
-![Coin Collection](screenshots/coin-collection.png)
-
-### Pit Failure Condition
-
-![Pit Failure](screenshots/pit-failure.png)
 
 ### Results Screen
 
@@ -99,3 +92,26 @@ This project provided practical experience with:
 The objective of the game is to guide the professor through a maze environment while collecting valuable items and avoiding hazards. The player can either manually control movement or allow the system to simulate random navigation. Throughout the adventure, events are recorded in log files, allowing the complete journey to be reviewed after execution.
 
 This project showcases how complex interactive applications can be developed using Assembly Language through modular design and low-level programming techniques.
+
+---
+
+## Future Improvements
+
+* Additional Levels
+* More Boss Battles
+* Enhanced Visual Effects
+* Improved Animations
+* Additional Weapons
+* Expanded Enemy Variety
+
+---
+
+## Author
+
+Muhammad Dawood | 
+Maidah BInte Junaid | 
+UmeHani Awais | 
+BS Cyber Security | 
+FAST NUCES Islamabad
+
+GitHub: https://github.com/Dawood3838
