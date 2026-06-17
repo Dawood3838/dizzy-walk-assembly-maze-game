@@ -77,13 +77,14 @@ This project provided practical experience with:
 
 ![Results](screenshots/results-screen.png)
 
+Checkout the screenshots folder to see more screenshots of the game.
 ---
 
 ## Video Demonstration
 
 ▶ **Project Demonstration Video**
 
-[Add Video Link Here]
+[(https://www.linkedin.com/posts/muhammad-dawood-a1bb40324_excited-to-share-another-project-as-part-activity-7473100160089317376-pW0_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFIJzbcBieJ-zMHfKZuyZR2F1OKolg5Yk8k)]
 
 ---
 
